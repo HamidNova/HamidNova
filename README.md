@@ -136,26 +136,31 @@ An experimental system combining:
 
 # 🎯 Current Focus
 
-```python
-current_focus = {
-    "Machine Learning": [
-        "Recommendation Systems",
-        "Collaborative Filtering",
-        "Model Evaluation"
-    ],
+<div align="center">
 
-    "Artificial Intelligence": [
-        "Deep Learning",
-        "Neural Networks",
-        "LLM Applications"
-    ],
+### 🤖 Machine Learning
 
-    "Data Mining": [
-        "Data Analysis",
-        "Feature Engineering",
-        "Pattern Discovery"
-    ]
-}
+<img src="https://img.shields.io/badge/Recommendation%20Systems-ML-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Collaborative%20Filtering-ML-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-ML-3776AB?style=for-the-badge" />
+
+<br><br>
+
+### 🧠 Artificial Intelligence
+
+<img src="https://img.shields.io/badge/Deep%20Learning-AI-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Neural%20Networks-AI-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Applications-AI-6A5ACD?style=for-the-badge" />
+
+<br><br>
+
+### 📊 Data Mining
+
+<img src="https://img.shields.io/badge/Data%20Analysis-Data-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-Data-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pattern%20Discovery-Data-FF8C00?style=for-the-badge" />
+
+</div>
 ```
 
 ---
