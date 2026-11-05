@@ -2,12 +2,13 @@
 
 # 👋 Hey, I'm Hamidreza Mirzaei
 
-### 🧠 AI & Machine Learning Enthusiast
-### 🎓 M.Sc. Student in Artificial Intelligence
+### 🧠 Artificial Intelligence & Machine Learning
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Data+Mining;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" />
-</p>
+🎓 **M.Sc. Student in Artificial Intelligence**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Data+Mining;Turning+Ideas+into+Practical+AI+Projects+%F0%9F%9A%80" />
 
 </div>
 
@@ -15,19 +16,22 @@
 
 ## 🧠 About Me
 
-I'm a **Master's student specializing in Artificial Intelligence** with a strong interest in building practical and intelligent systems.
+I'm a **Master's student specializing in Artificial Intelligence**, interested in building practical systems with **Machine Learning, Deep Learning, Data Mining, and Recommendation Systems**.
 
-My journey focuses on transforming data and machine learning ideas into complete projects — from **data preprocessing and model development** to **evaluation, visualization, and interactive applications**.
+I enjoy taking an idea through the complete AI workflow:
 
 ```text
-AI Student
-   │
-   ├── 🤖 Machine Learning
-   ├── 🧠 Deep Learning
-   ├── 🎯 Recommendation Systems
-   ├── 📊 Data Mining
-   ├── 📈 Time-Series Forecasting
-   └── 🗣️ AI & LLM Applications
+Data
+  ↓
+Preprocessing
+  ↓
+Feature Engineering
+  ↓
+Model Development
+  ↓
+Evaluation
+  ↓
+Interactive AI Applications
 ```
 
 ---
@@ -36,94 +40,101 @@ AI Student
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🎬 Movie Recommendation System
 
 ### Hybrid AI Recommendation Engine
 
-**ALS + Content-Based Filtering + Fuzzy C-Means + Neural Networks + Ensemble Learning**
+A complete recommendation system combining:
 
-🔹 Collaborative Filtering  
-🔹 Content-Based Recommendation  
-🔹 Fuzzy Clustering  
-🔹 Neural Hybrid Model  
-🔹 Ensemble Learning  
-🔹 Ablation Study  
-🔹 Streamlit Interface  
+**ALS • Content-Based Filtering • Fuzzy C-Means • Neural Networks • Ensemble Learning**
 
-### 📊 Evaluation
+### Highlights
+
+- 🎯 ALS Collaborative Filtering
+- 🎬 Content-Based Recommendation
+- 🌫️ Fuzzy C-Means Clustering
+- 🧠 Neural Hybrid Recommender
+- 🔀 Ensemble Learning
+- 🧪 Model Ablation Study
+- 📊 Comprehensive Evaluation
+- 🖥️ Interactive Streamlit UI
+
+**Metrics**
 
 `Precision` • `Recall` • `NDCG`  
 `Coverage` • `Novelty` • `Diversity`
 
-➡️ **[Explore the Project](https://github.com/HamidNova/movie-recommendation-system)**
+### 🔗 [Explore the Project →](https://github.com/HamidNova/movie-recommendation-system)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🥇 Gold Price Forecasting
 
 ### AI-Powered Hybrid Forecasting
 
-**Machine Learning + Financial Data + Local LLM Intelligence**
+An experimental system combining:
 
-🔹 XGBoost Forecasting  
-🔹 Time-Series Validation  
-🔹 Financial Features  
-🔹 Macroeconomic Data  
-🔹 Local Qwen LLM  
-🔹 News Impact Analysis  
-🔹 Streamlit Dashboard  
+**Machine Learning • Time-Series • Financial Data • Local LLM Intelligence**
 
-### 🧠 AI Pipeline
+### Highlights
 
-`ML Forecast` → `LLM Analysis` → `Hybrid Output`
+- 📈 XGBoost Forecasting
+- ⏳ Time-Series Validation
+- ⚙️ Feature Engineering
+- 🌍 Market & Macroeconomic Data
+- 🤖 Local Qwen LLM Integration
+- 📰 AI News Impact Analysis
+- 🖥️ Interactive Streamlit Dashboard
 
-➡️ **[Explore the Project](https://github.com/HamidNova/gold-price-prediction)**
+### 🔗 [Explore the Project →](https://github.com/HamidNova/gold-price-prediction)
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🐍 Programming & Data
+### Programming & Data
 
-<img src="https://skillicons.dev/icons?i=python" height="55" />
+<img src="https://skillicons.dev/icons?i=python" height="52" alt="Python" />
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32" alt="NumPy" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" alt="Pandas" />
 
-### 🤖 Machine Learning & AI
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch" height="55" />
+### Machine Learning & AI
 
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="52" alt="PyTorch" />
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" height="35"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32" alt="scikit-learn" />
 
-### ⚙️ Tools & Development
+<img src="https://img.shields.io/badge/XGBoost-Machine%20Learning-337AB7?style=for-the-badge" height="32" alt="XGBoost" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker" height="55" />
+<br><br>
 
-&nbsp;&nbsp;
+### Tools & Applications
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=git,github" height="52" alt="Git and GitHub" />
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" alt="Streamlit" />
 
 </div>
 
 ---
 
-# 🧪 Current Focus
+# 🎯 Current Focus
 
 ```python
 current_focus = {
@@ -139,10 +150,10 @@ current_focus = {
         "LLM Applications"
     ],
 
-    "Data Science": [
-        "Data Mining",
+    "Data Mining": [
+        "Data Analysis",
         "Feature Engineering",
-        "Time-Series Analysis"
+        "Pattern Discovery"
     ]
 }
 ```
@@ -152,33 +163,35 @@ current_focus = {
 # 🗺️ My AI Journey
 
 ```text
-Python
-  │
-  ▼
-Data Analysis
-  │
-  ▼
-Machine Learning
-  │
-  ├──────────────► Recommendation Systems 🎬
-  │
-  ├──────────────► Time-Series Forecasting 📈
-  │
-  ▼
-Deep Learning
-  │
-  ▼
-Artificial Intelligence 🚀
+                  🐍 Python
+                      │
+                      ▼
+                📊 Data Analysis
+                      │
+                      ▼
+              🤖 Machine Learning
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+       🎬 Recommenders 📈 Forecasting
+                      │
+                      ▼
+                🧠 Deep Learning
+                      │
+                      ▼
+             🚀 Artificial Intelligence
 ```
 
 ---
 
 # 🌱 Currently Learning
 
-- 🧠 Advanced Machine Learning
-- 🤖 Deep Learning
+> 📚 Continuously expanding my knowledge in:
+
+- 🤖 Advanced Machine Learning
+- 🧠 Deep Learning
 - 📊 Data Mining
-- 🎯 Advanced Recommendation Systems
+- 🎯 Recommendation Systems
 - ⚙️ AI Engineering
 
 ---
@@ -188,11 +201,13 @@ Artificial Intelligence 🚀
 <div align="center">
 
 <a href="https://github.com/HamidNova">
-  <img src="https://img.shields.io/badge/GitHub-HamidNova-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-HamidNova-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+&nbsp;
+
 <a href="mailto:hamidrezamirzaei8363@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -201,10 +216,8 @@ Artificial Intelligence 🚀
 
 <div align="center">
 
-### 💭 *"Building intelligent systems, one project at a time."*
+### 💭 *Building intelligent systems, one project at a time.*
 
-<br>
-
-⭐ **Feel free to explore my repositories and projects!**
+⭐ **Feel free to explore my projects and repositories!**
 
 </div>
