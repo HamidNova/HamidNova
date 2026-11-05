@@ -1,137 +1,210 @@
-# Hi there, I'm Hamidreza Mirzaei 👋
+<div align="center">
 
-### 🎓 M.Sc. Student in Artificial Intelligence | Machine Learning & AI Developer
+# 👋 Hey, I'm Hamidreza Mirzaei
 
-I'm a Computer Engineering graduate student specializing in **Artificial Intelligence**, with a strong interest in building practical **Machine Learning, Recommendation Systems, and AI-powered applications**.
+### 🧠 AI & Machine Learning Enthusiast
+### 🎓 M.Sc. Student in Artificial Intelligence
 
-I enjoy turning data and machine learning ideas into complete projects — from data preprocessing and model development to evaluation and interactive applications.
-
----
-
-## 🚀 What I'm Working On
-
-- 🎬 **Hybrid Movie Recommendation System**
-  - ALS Collaborative Filtering
-  - Content-Based Filtering
-  - Fuzzy C-Means Clustering
-  - Neural Hybrid Recommendation
-  - Ensemble Learning
-  - Streamlit Interactive Interface
-
-- 🥇 **Gold Price Hybrid Forecasting System**
-  - Time-Series Machine Learning
-  - XGBoost
-  - Financial & Macroeconomic Features
-  - Local LLM News Intelligence
-  - Streamlit Dashboard
-
----
-
-## 🧠 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
-- 🧠 Deep Learning
-- 🎯 Recommendation Systems
-- 📈 Time-Series Forecasting
-- 🔍 Data Mining
-- 🗣️ Large Language Models
-- 📊 Data Analysis
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Machine Learning & AI
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-
-### Tools & Applications
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🎬 [Movie Recommendation System](https://github.com/HamidNova/movie-recommendation-system)
-
-A hybrid movie recommendation system combining:
-
-> **ALS + Content-Based Filtering + Fuzzy C-Means + Neural Networks + Ensemble Learning**
-
-**Highlights:**
-
-- Hybrid recommendation engine
-- Fuzzy clustering of movie embeddings
-- Neural recommendation with fuzzy membership features
-- Model ablation study
-- Precision, Recall, NDCG, Coverage, Novelty & Diversity evaluation
-- Interactive Streamlit application
-
----
-
-### 🥇 [Gold Price Hybrid Forecasting](https://github.com/HamidNova/gold-price-prediction)
-
-An experimental AI system combining:
-
-> **Machine Learning + Time-Series Forecasting + Financial Data + Local LLM Intelligence**
-
-**Highlights:**
-
-- XGBoost forecasting
-- Financial & macroeconomic features
-- Time-series validation
-- Local Qwen LLM integration through LM Studio
-- AI-powered news impact analysis
-- Interactive Streamlit dashboard
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamidNova&show_icons=true&theme=tokyonight" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Data+Mining;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNova&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 About Me
 
-- Advanced Machine Learning
-- Deep Learning
-- Data Mining
-- Recommendation Systems
-- AI Engineering
+I'm a **Master's student specializing in Artificial Intelligence** with a strong interest in building practical and intelligent systems.
+
+My journey focuses on transforming data and machine learning ideas into complete projects — from **data preprocessing and model development** to **evaluation, visualization, and interactive applications**.
+
+```text
+AI Student
+   │
+   ├── 🤖 Machine Learning
+   ├── 🧠 Deep Learning
+   ├── 🎯 Recommendation Systems
+   ├── 📊 Data Mining
+   ├── 📈 Time-Series Forecasting
+   └── 🗣️ AI & LLM Applications
+```
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-- 💻 GitHub: [@HamidNova](https://github.com/HamidNova)
-- 📧 Email: hamidrezamirzaei8363@gmail.com
+<table>
+<tr>
+<td width="50%">
+
+## 🎬 Movie Recommendation System
+
+### Hybrid AI Recommendation Engine
+
+**ALS + Content-Based Filtering + Fuzzy C-Means + Neural Networks + Ensemble Learning**
+
+🔹 Collaborative Filtering  
+🔹 Content-Based Recommendation  
+🔹 Fuzzy Clustering  
+🔹 Neural Hybrid Model  
+🔹 Ensemble Learning  
+🔹 Ablation Study  
+🔹 Streamlit Interface  
+
+### 📊 Evaluation
+
+`Precision` • `Recall` • `NDCG`  
+`Coverage` • `Novelty` • `Diversity`
+
+➡️ **[Explore the Project](https://github.com/HamidNova/movie-recommendation-system)**
+
+</td>
+
+<td width="50%">
+
+## 🥇 Gold Price Forecasting
+
+### AI-Powered Hybrid Forecasting
+
+**Machine Learning + Financial Data + Local LLM Intelligence**
+
+🔹 XGBoost Forecasting  
+🔹 Time-Series Validation  
+🔹 Financial Features  
+🔹 Macroeconomic Data  
+🔹 Local Qwen LLM  
+🔹 News Impact Analysis  
+🔹 Streamlit Dashboard  
+
+### 🧠 AI Pipeline
+
+`ML Forecast` → `LLM Analysis` → `Hybrid Output`
+
+➡️ **[Explore the Project](https://github.com/HamidNova/gold-price-prediction)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>"Building intelligent systems, one project at a time. 🚀"</i>
-</p>
+# 🛠️ Technology Stack
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and projects!
-</p>
+<div align="center">
+
+### 🐍 Programming & Data
+
+<img src="https://skillicons.dev/icons?i=python" height="55" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+
+### 🤖 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="55" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" height="35"/>
+
+### ⚙️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" height="55" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35"/>
+
+</div>
+
+---
+
+# 🧪 Current Focus
+
+```python
+current_focus = {
+    "Machine Learning": [
+        "Recommendation Systems",
+        "Collaborative Filtering",
+        "Model Evaluation"
+    ],
+
+    "Artificial Intelligence": [
+        "Deep Learning",
+        "Neural Networks",
+        "LLM Applications"
+    ],
+
+    "Data Science": [
+        "Data Mining",
+        "Feature Engineering",
+        "Time-Series Analysis"
+    ]
+}
+```
+
+---
+
+# 🗺️ My AI Journey
+
+```text
+Python
+  │
+  ▼
+Data Analysis
+  │
+  ▼
+Machine Learning
+  │
+  ├──────────────► Recommendation Systems 🎬
+  │
+  ├──────────────► Time-Series Forecasting 📈
+  │
+  ▼
+Deep Learning
+  │
+  ▼
+Artificial Intelligence 🚀
+```
+
+---
+
+# 🌱 Currently Learning
+
+- 🧠 Advanced Machine Learning
+- 🤖 Deep Learning
+- 📊 Data Mining
+- 🎯 Advanced Recommendation Systems
+- ⚙️ AI Engineering
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/HamidNova">
+  <img src="https://img.shields.io/badge/GitHub-HamidNova-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:hamidrezamirzaei8363@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Building intelligent systems, one project at a time."*
+
+<br>
+
+⭐ **Feel free to explore my repositories and projects!**
+
+</div>
