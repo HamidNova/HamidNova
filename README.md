@@ -161,7 +161,6 @@ An experimental system combining:
 <img src="https://img.shields.io/badge/Pattern%20Discovery-Data-FF8C00?style=for-the-badge" />
 
 </div>
-```
 
 ---
 
